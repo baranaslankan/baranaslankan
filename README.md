@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there, I'm Baran Aslankan!
 
-<!--
-**baranaslankan/baranaslankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer **
 
-Here are some ideas to get you started:
+I'm a passionate developer with experience in **frontend and backend development**, currently exploring new technologies to build **scalable and efficient** applications.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack  
+### Frontend  
+- **Languages:** TypeScript, JavaScript  
+- **Frameworks:** React.js, Next.js  
+- **Styling:** Tailwind CSS, SCSS  
+
+### Backend  
+- **Frameworks:** NestJS, Express.js  
+- **Databases:** MySQL  
+- **ORMs:** Prisma  
+
+### Tools  
+- **Version Control:** Git, GitHub  
+- **Deployment:** AWS  
+- **Design & Prototyping:** Figma  
+
+---
+
+## GitHub Stats  
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=baranaslankan&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baranaslankan&layout=compact&theme=dark)  
+
+---
+
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/baranaslankan/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/baranaslankan)  
+
+---
+
+**Fun Fact:** *I love Salt & Vinegar Pringles*
