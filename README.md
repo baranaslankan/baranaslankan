@@ -1,6 +1,6 @@
 # Hey there, I'm Baran Aslankan!
 
-**Software Engineer **
+## Software Engineer
 
 I'm a passionate developer with experience in **frontend and backend development**, currently exploring new technologies to build **scalable and efficient** applications.  
 
