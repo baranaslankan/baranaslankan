@@ -29,7 +29,7 @@ I'm a passionate developer with experience in **frontend and backend development
 ---
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/baranaslankan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/baran-aslankan-220a23196/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/baranaslankan)  
 
 ---
