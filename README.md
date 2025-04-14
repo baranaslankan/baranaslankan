@@ -1,3 +1,5 @@
+<img src="[https://your-image-link.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQFlwNyiQO5I4g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1700860199281?e=1750291200&v=beta&t=AaSiycGZxB8Ut4jeRf40N26n-rZiGMSWIWgvWCTgzm0)" alt="Baran Aslankan Banner" width="100%" />
+
 # Hey there, I'm Baran Aslankan!
 
 ## Software Engineer
