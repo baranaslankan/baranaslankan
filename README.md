@@ -41,7 +41,7 @@ A business management platform for anyone who rents things by the hour or the da
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=baranaslankan&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranaslankan&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baranaslankan&layout=compact&theme=github_dark&hide_border=true&exclude_repo=lms,assignment1-php-mysql,web-project,http5125,http5114,Cumulative,pet-playlist,PetPlaylist,forked-contributions&hide=html,pug" alt="Top languages" />
 </p>
 
 <p align="center">
